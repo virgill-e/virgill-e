@@ -1,5 +1,6 @@
 ## Bienvenue sur mon profil GitHub ! 👋
-<img height="256" width="256" src="https://virgill-e.be/ressources/img/me.png" alt="me" />
+
+<img src="https://www.virgill-e.be/ressources/img/virgille_ascii.png" alt="virgill_e" />
 
 ## À propos de moi
 
