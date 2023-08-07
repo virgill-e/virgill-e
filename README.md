@@ -21,6 +21,5 @@ Je suis un étudiant de développement informatique.
 ## Contact
 
 - [Contact](https://www.virgill-e.be/)
-- [Adresse e-mail](virgile.bigare@gmail.com)
 
 Merci d'avoir visité mon profil GitHub ! 🙌
