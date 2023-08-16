@@ -2,9 +2,6 @@
 
 <img src="https://www.virgill-e.be/ressources/img/virgille_ascii.png" alt="virgill_e" />
 
-## À propos de moi
-
-Je suis un étudiant de développement informatique.
 
 ## Langages
 <span>
