@@ -3,6 +3,6 @@
 
 ## Contact
 
-- [Contact](https://www.virgill-e.be/)
+- [Contact](https://virgill-e.com/)
 
 Merci d'avoir visité mon profil GitHub ! 🙌
