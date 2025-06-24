@@ -1,8 +1,55 @@
-## Bienvenue sur mon profil GitHub ! 👋
+<!-- README.md -->
 
+<h1 align="center">
+  Salut, moi c'est <a href="https://github.com/ton-pseudo">Ton Prénom</a> 👋
+</h1>
 
-## Contact
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Développeur+passionné;Fan+de+Open+Source;Toujours+curieux+!+🚀" alt="Typing SVG" />
+</p>
 
-- [Contact](https://virgill-e.com/)
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coder GIF" />
+</p>
 
-Merci d'avoir visité mon profil GitHub ! 🙌
+---
+
+### 🚀 À propos de moi
+
+- 🔭 Je travaille sur **des projets cools**
+- 🌱 J’apprends actuellement **Next.js et l’IA**
+- 💬 Demande-moi n’importe quoi sur **JavaScript, Python, ou GitHub**
+- 📫 Contacte-moi : [email@example.com](mailto:email@example.com)
+
+---
+
+### 📊 Mes stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-pseudo&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](./dist/github-contribution-grid-snake.svg)
+
+---
+
+### 🛠️ Langages & Outils
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-React-333?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Git-333?style=flat-square&logo=git" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ton-pseudo&style=flat-square&color=blue" alt="Profile views" />
+</p>
