@@ -1,12 +1,13 @@
 <!-- README.md -->
 
 <h1 align="center">
-  Salut, moi c'est <a href="https://github.com/ton-pseudo">Ton Prénom</a> 👋
+  Salut, moi c'est <a href="https://github.com/ton-pseudo">Virgile</a> 👋
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Développeur+passionné;Fan+de+Open+Source;Toujours+curieux+!+🚀" alt="Typing SVG" />
+  <img src="assets/typing.gif" alt="Typing animation" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coder GIF" />
