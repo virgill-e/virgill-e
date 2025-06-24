@@ -16,9 +16,8 @@
 
 ### 📊 Mes stats GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=virgill-e&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=virgill-e&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
