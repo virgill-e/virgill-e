@@ -8,16 +8,9 @@
 
 ### 🚀 À propos de moi
 
-- 🔭 Je travaille sur **...**
-- 🌱 J’apprends actuellement **...**
-- 📫 Contacte-moi : [...](mailto:...)
-
----
-
-### 📊 Mes stats GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=virgill-e&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
+- 🔭 Je travaille sur **Une app flutter de cuisine 👨🏻‍🍳**
+- 🌱 J’apprends actuellement **Le dev mobile**
+- 📫 Contacte-moi : [virgile.bigare@gmail.com](mailto:virgile.bigare@gmail.com)
 
 ---
 
