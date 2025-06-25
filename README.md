@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">
-  Salut, moi c'est <a href="https://github.com/virgill-e">Virgile (en cours de création)</a> 👋
+  Salut, moi c'est <a href="https://github.com/virgill-e">Virgile</a> 👋
 </h1>
 
 ---
@@ -23,10 +23,10 @@
 ### 🛠️ Langages & Outils
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Dotnet-333?style=flat-square&logo=dotnet" />
+  <img src="https://img.shields.io/badge/-Nuxt-333?style=flat-square&logo=Nuxt" />
+  <img src="https://img.shields.io/badge/-Flutter-333?style=flat-square&logo=flutter" />
   <img src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-React-333?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/-Git-333?style=flat-square&logo=git" />
 </p>
 
