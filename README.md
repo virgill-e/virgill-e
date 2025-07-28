@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/-Dotnet-333?style=flat-square&logo=dotnet" />
   <img src="https://img.shields.io/badge/-Nuxt-333?style=flat-square&logo=Nuxt" />
   <img src="https://img.shields.io/badge/-Flutter-333?style=flat-square&logo=flutter" />
-  <img src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/-Git-333?style=flat-square&logo=git" />
 </p>
 
