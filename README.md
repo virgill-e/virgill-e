@@ -6,14 +6,6 @@
 
 ---
 
-### 🚀 À propos de moi
-
-- 🔭 Je travaille sur **Une app flutter de cuisine 👨🏻‍🍳**
-- 🌱 J’apprends actuellement **Le dev mobile**
-- 📫 Contacte-moi : [virgile.bigare@gmail.com](mailto:virgile.bigare@gmail.com)
-
----
-
 ### 📊 Mes stats GitHub
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=virgill-e&show_icons=true&theme=dark&locale=en&layout=compact" alt="virgill-e" /></p>
