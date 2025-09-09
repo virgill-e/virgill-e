@@ -9,6 +9,7 @@
   <source srcset="img/Virgill_e-dark.svg" media="(prefers-color-scheme: dark)">
   <img src="img/Virgill_e-light.svg" alt="Logo Virgill_e">
 </picture>
+
 ---
 
 ### 📊 Mes stats GitHub
