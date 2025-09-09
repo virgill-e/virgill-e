@@ -5,16 +5,15 @@
 </h1>
 
 ---
+<picture>
+  <source srcset="img/Virgill_e-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="img/Virgill_e-light.svg" alt="Logo Virgill_e">
+</picture>
+---
 
 ### 📊 Mes stats GitHub
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=virgill-e&show_icons=true&theme=dark&locale=en&layout=compact" alt="virgill-e" /></p>
-
----
-
-### 🐍 Contribution Snake
-
-![Snake animation](./dist/github-contribution-grid-snake.svg)
 
 ---
 
